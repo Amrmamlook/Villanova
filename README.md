@@ -3,7 +3,7 @@ is a web application built on a .NET 7 . It provides a set of functionalities us
 The project includes authentication and authorization => using JWT (JSON Web Token) for different user roles (user and admin).
 # Features 
  - ### User Management:
-- Users can register and log in using authentication with **JWT**.
+- Users can register and log in using authentication with ** JWT **.
 - Different user roles (user and admin) with corresponding authorization actions.
  ### Villa Controller:
 - CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
