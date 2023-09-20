@@ -16,8 +16,8 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
    - Utilizes EF Core for database access and management.
    - SQL Server as the backend database.
 
-     ### Using AutoMapper
-     - Seperate DTOS
+     ### Using AutoMapper :
+     - Seperates DTOS
     
   ### Unit of Work (UOW) and Repository Pattern:
   - Implements the UOW and Repository pattern using a generic class for efficient data access.
