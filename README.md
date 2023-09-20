@@ -15,6 +15,7 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
   1. Utilizes EF Core for database access and management.
  - ### Unit of Work (UOW) and Repository Pattern:
   - Implements the UOW and Repository pattern using a generic class for efficient data access.
+    
     - ### Api Interaction With
     - Postman
     - Swagger (provide it with documentation and Beare In Action)
