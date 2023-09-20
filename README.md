@@ -3,7 +3,7 @@ is a web application built on a .NET 7 . It provides a set of functionalities us
 The project includes authentication and authorization => using JWT (JSON Web Token) for different user roles (user and admin).
 # Features 
  ### Using Api Versioning (Nuget packages)
-  ### using .Net Identity
+  ### using .Net Identity (Nuget packages)
   ### Caching ,Filter and Pagination Api
  
   ### User Management:
@@ -21,9 +21,6 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
  ### Using Entity Framework Core :
    - Utilizes EF Core for database access and management.
    - SQL Server as the backend database.
-
-
-     ###
      
     
   ### Unit of Work (UOW) and Repository Pattern:
