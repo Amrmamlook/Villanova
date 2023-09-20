@@ -2,19 +2,19 @@
 is a web application built on a .NET 7 . It provides a set of functionalities using Web API, Entity Framework Core, and SQL Server for managing villas. 
 The project includes authentication and authorization => using JWT (JSON Web Token) for different user roles (user and admin).
 # Features 
- - ### User Management:
+  ### User Management:
 - Users can register and log in using authentication with **JWT**.
 - Different user roles (user and admin) with corresponding authorization actions.
+
+    ### Using Api Versioning
+   ### Caching ,Filter and Pagination Api
+  
  ### Villa Controller:
 - CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
 - Authorization checks based on user roles for each action.
  ### VillaNumber Controller :
   - Similar CRUD operations for managing villa numbers.
   - Authorization checks based on user roles for each action.
-
-    
-     ### Api Versioning
-    ### Caching ,Filter and Pagination Api
    
  ### Using Entity Framework Core :
    - Utilizes EF Core for database access and management.
