@@ -2,13 +2,15 @@
 is a web application built on a .NET 7 . It provides a set of functionalities using Web API, Entity Framework Core, and SQL Server for managing villas. 
 The project includes authentication and authorization => using JWT (JSON Web Token) for different user roles (user and admin).
 # Features 
+ ### Using Api Versioning (Nuget packages)
+  ### using .Net Identity
+  ### Caching ,Filter and Pagination Api
+ 
   ### User Management:
 - Users can register and log in using authentication with **JWT**.
 - Different user roles (user and admin) with corresponding authorization actions.
 
-    ### Using Api Versioning
-   ### Caching ,Filter and Pagination Api
-  
+   
  ### Villa Controller:
 - CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
 - Authorization checks based on user roles for each action.
