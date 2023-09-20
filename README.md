@@ -13,7 +13,7 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
 
    
  ### Villa Controller:
-- CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
+- CRUD operations (Create, Get, Update, Delete,Patch) for managing villa data.
 - Authorization checks based on user roles for each action.
  ### VillaNumber Controller :
   - Similar CRUD operations for managing villa numbers.
