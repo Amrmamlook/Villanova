@@ -18,4 +18,4 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
     
     - ### Api Interaction With
     - Postman
-    - Swagger (provide it with documentation and Beare In Action)
+    - Swagger (provided with documentation and Bearer JWT In Action)
