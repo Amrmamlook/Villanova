@@ -5,10 +5,10 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
  - ### User Management:
 1. Users can register and log in using authentication with JWT.
 1. Different user roles (user and admin) with corresponding authorization actions.
-- ###Villa Controller:
+- ### Villa Controller:
 1. CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
 1. Authorization checks based on user roles for each action.
-- ### - VillaNumber Controller:
+- ### VillaNumber Controller:
   1.Similar CRUD operations for managing villa numbers.
   1.Authorization checks based on user roles for each action.
   - ### Entity Framework Core:
