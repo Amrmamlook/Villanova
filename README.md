@@ -1,5 +1,5 @@
-# Villanova Api
-is a web application built on a .NET 7 . It provides a set of functionalities using Web API, Entity Framework Core, and SQL Server for managing villas. 
+# Villanova Api With Deployment To Azure
+is a web application built on a .NET 7 With Deployment in Azure . It provides a set of functionalities using Web API, Entity Framework Core, and SQL Server for managing villas. 
 The project includes authentication and authorization => using JWT (JSON Web Token) for different user roles (user and admin).
 # Features 
  ### Using Api Versioning (Nuget packages)
@@ -31,12 +31,12 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
     - Swagger (provided with documentation and Bearer JWT In Action)
       
     ### Consuming Api
-    - In MVC Project
+    - In MVC Project 
 
       ## Usage
       - Register as a user or Admin and obtain a JWT token.
        -   Use the token to authenticate and access the API endpoints.
-       -  Perform CRUD operations on villas and villa numbers based on your user role
+       -  Perform CRUD operations on villas and villa numbers based on your user role.
    
    
     
