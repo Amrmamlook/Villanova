@@ -13,6 +13,6 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
   1. Authorization checks based on user roles for each action.
   - ### Entity Framework Core:
   - Utilizes EF Core for database access and management.
-    -### Unit of Work (UOW) and Repository Pattern:
+    - ### Unit of Work (UOW) and Repository Pattern:
     - Implements the UOW and Repository pattern using a generic class for efficient data access.
     ##  Api Interacting with => Swagger && Postman
