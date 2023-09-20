@@ -31,7 +31,7 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
     - Postman
     - Swagger (provided with documentation and Bearer JWT In Action)
       
-    ### Consuming Api
+    - ### Consuming Api
     - In MVC Project 
 
       ## Usage
