@@ -3,14 +3,14 @@ is a web application built on a .NET 7 . It provides a set of functionalities us
 The project includes authentication and authorization => using JWT (JSON Web Token) for different user roles (user and admin).
 # Features 
  - ### User Management:
-1. Users can register and log in using authentication with JWT.
-1. Different user roles (user and admin) with corresponding authorization actions.
+- Users can register and log in using authentication with JWT.
+- Different user roles (user and admin) with corresponding authorization actions.
 - ### Villa Controller:
-1. CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
-1. Authorization checks based on user roles for each action.
+- CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
+- Authorization checks based on user roles for each action.
 - ### VillaNumber Controller :
-  1. Similar CRUD operations for managing villa numbers.
-  1. Authorization checks based on user roles for each action.
+  - Similar CRUD operations for managing villa numbers.
+  - Authorization checks based on user roles for each action.
    
 - ### Using Entity Framework Core :
    - Utilizes EF Core for database access and management.
