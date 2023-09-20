@@ -13,8 +13,8 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
   1. Authorization checks based on user roles for each action.
    
 - ### Using Entity Framework Core :
-   1. Utilizes EF Core for database access and management.
-   2. SQL Server as the backend database.
+   - Utilizes EF Core for database access and management.
+   - SQL Server as the backend database.
     
  - ### Unit of Work (UOW) and Repository Pattern:
   - Implements the UOW and Repository pattern using a generic class for efficient data access.
