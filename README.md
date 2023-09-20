@@ -8,11 +8,11 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
 - ### Villa Controller:
 1. CRUD operations (Create, Read, Update, Delete,Patch) for managing villa data.
 1. Authorization checks based on user roles for each action.
-- ### VillaNumber Controller:
-  1.Similar CRUD operations for managing villa numbers.
-  1.Authorization checks based on user roles for each action.
+- ### VillaNumber Controller :
+  1. Similar CRUD operations for managing villa numbers.
+  1. Authorization checks based on user roles for each action.
   - ### Entity Framework Core:
   - Utilizes EF Core for database access and management.
-    -###Unit of Work (UOW) and Repository Pattern:
-    -Implements the UOW and Repository pattern using a generic class for efficient data access.
+    -### Unit of Work (UOW) and Repository Pattern:
+    - Implements the UOW and Repository pattern using a generic class for efficient data access.
     ##  Api Interacting with => Swagger && Postman
