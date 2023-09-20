@@ -11,13 +11,18 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
  ### VillaNumber Controller :
   - Similar CRUD operations for managing villa numbers.
   - Authorization checks based on user roles for each action.
+
+    
+     ### Api Versioning
+    ### Caching ,Filter and Pagination Api
    
  ### Using Entity Framework Core :
    - Utilizes EF Core for database access and management.
    - SQL Server as the backend database.
 
-     ### Using AutoMapper :
-     - Seperates DTOS
+
+     ###
+     
     
   ### Unit of Work (UOW) and Repository Pattern:
   - Implements the UOW and Repository pattern using a generic class for efficient data access.
