@@ -11,9 +11,9 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
 - ### VillaNumber Controller :
   1. Similar CRUD operations for managing villa numbers.
   1. Authorization checks based on user roles for each action.
-  
-  - ### Entity Framework Core:
-  1. Utilizes EF Core for database access and management.
+   
+- ### Using Entity Framework Core :
+   1. Utilizes EF Core for database access and management.
     
  - ### Unit of Work (UOW) and Repository Pattern:
   - Implements the UOW and Repository pattern using a generic class for efficient data access.
