@@ -26,8 +26,13 @@ The project includes authentication and authorization => using JWT (JSON Web Tok
     - Postman
     - Swagger (provided with documentation and Bearer JWT In Action)
       
-    ### Consume Api
-    - In MVC Project 
+    ### Consuming Api
+    - In MVC Project
+
+      ## Usage
+      - Register as a user or Admin and obtain a JWT token.
+       -   Use the token to authenticate and access the API endpoints.
+       -  Perform CRUD operations on villas and villa numbers based on your user role
    
    
     
