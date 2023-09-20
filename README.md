@@ -1,4 +1,4 @@
-# Villanova Api With Deployment To Azure
+# Villanova 
 is a web application built on a **.NET 7**  With Deployment in Azure . 
 It provides a set of functionalities using Web API, Entity Framework Core, and SQL Server for managing villas. 
 The project includes authentication and authorization => using JWT (JSON Web Token) for different user roles (user and admin).
